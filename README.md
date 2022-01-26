@@ -8,3 +8,10 @@
 - easy integrates with other languagues
 - elimanates many classes of bugs at compile-time
 - very productive
+
+### compilation
+```
+$ rustc file_name.rs
+$ ./file_name
+Given_output from File!
+```
