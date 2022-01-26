@@ -1,6 +1,7 @@
 # Practicing the rust languague
 
-## RUST
+## RUST <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height=50/>
+
 ##### "A language empowering everyone to build reliable and efficient software."
 
 ### Key points
